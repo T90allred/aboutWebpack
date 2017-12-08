@@ -1,2 +1,2 @@
 # aboutWebpack
-<h2>A compilation of my dealings with Webpack</h2>
+## This is my more indepth look at Webpack
